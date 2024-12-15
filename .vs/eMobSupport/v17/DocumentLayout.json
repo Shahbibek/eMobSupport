@@ -5,18 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A976B2FC-2703-4513-A940-91A74D1DBE38}|eMobSupport\\eMobSupport.csproj|e:\\mobile applicatiton (maui)\\emobsupport\\emobsupport\\emobsupport.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{A976B2FC-2703-4513-A940-91A74D1DBE38}|eMobSupport\\eMobSupport.csproj|solutionrelative:emobsupport\\emobsupport.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A976B2FC-2703-4513-A940-91A74D1DBE38}|eMobSupport\\eMobSupport.csproj|e:\\mobile applicatiton (maui)\\emobsupport\\emobsupport\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A976B2FC-2703-4513-A940-91A74D1DBE38}|eMobSupport\\eMobSupport.csproj|solutionrelative:emobsupport\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F62FE2D5-B942-4FA6-A06E-248A1DE09854}|Maui.Apps.Framework\\Maui.Apps.Framework.csproj|e:\\mobile applicatiton (maui)\\emobsupport\\maui.apps.framework\\maui.apps.framework.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{F62FE2D5-B942-4FA6-A06E-248A1DE09854}|Maui.Apps.Framework\\Maui.Apps.Framework.csproj|solutionrelative:maui.apps.framework\\maui.apps.framework.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F62FE2D5-B942-4FA6-A06E-248A1DE09854}|Maui.Apps.Framework\\Maui.Apps.Framework.csproj|e:\\mobile applicatiton (maui)\\emobsupport\\maui.apps.framework\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F62FE2D5-B942-4FA6-A06E-248A1DE09854}|Maui.Apps.Framework\\Maui.Apps.Framework.csproj|solutionrelative:maui.apps.framework\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -44,48 +32,10 @@
               "RelativeDocumentMoniker": "eMobSupport\\eMobSupport.csproj",
               "ToolTip": "E:\\Mobile Applicatiton (MAUI)\\eMobSupport\\eMobSupport\\eMobSupport.csproj",
               "RelativeToolTip": "eMobSupport\\eMobSupport.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAC4AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-14T10:17:34.197Z",
+              "WhenOpened": "2024-12-14T17:09:52.083Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Maui.Apps.Framework.csproj",
-              "DocumentMoniker": "E:\\Mobile Applicatiton (MAUI)\\eMobSupport\\Maui.Apps.Framework\\Maui.Apps.Framework.csproj",
-              "RelativeDocumentMoniker": "Maui.Apps.Framework\\Maui.Apps.Framework.csproj",
-              "ToolTip": "E:\\Mobile Applicatiton (MAUI)\\eMobSupport\\Maui.Apps.Framework\\Maui.Apps.Framework.csproj",
-              "RelativeToolTip": "Maui.Apps.Framework\\Maui.Apps.Framework.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAACHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-14T10:15:01.015Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "GlobalUsings.cs",
-              "DocumentMoniker": "E:\\Mobile Applicatiton (MAUI)\\eMobSupport\\eMobSupport\\GlobalUsings.cs",
-              "RelativeDocumentMoniker": "eMobSupport\\GlobalUsings.cs",
-              "ToolTip": "E:\\Mobile Applicatiton (MAUI)\\eMobSupport\\eMobSupport\\GlobalUsings.cs",
-              "RelativeToolTip": "eMobSupport\\GlobalUsings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T10:13:49.2Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "GlobalUsings.cs",
-              "DocumentMoniker": "E:\\Mobile Applicatiton (MAUI)\\eMobSupport\\Maui.Apps.Framework\\GlobalUsings.cs",
-              "RelativeDocumentMoniker": "Maui.Apps.Framework\\GlobalUsings.cs",
-              "ToolTip": "E:\\Mobile Applicatiton (MAUI)\\eMobSupport\\Maui.Apps.Framework\\GlobalUsings.cs",
-              "RelativeToolTip": "Maui.Apps.Framework\\GlobalUsings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T10:13:07.128Z"
             }
           ]
         }
