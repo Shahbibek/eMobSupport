@@ -15,7 +15,7 @@
 		<ApplicationTitle>X Player</ApplicationTitle>
 
 		<!-- App Identifier -->
-		<ApplicationId>com.x-player.emobsupport</ApplicationId>
+		<ApplicationId>x-player.emobSupport.App</ApplicationId>
 
 		<!-- Versions -->
 		<ApplicationDisplayVersion>1.0</ApplicationDisplayVersion>
@@ -58,17 +58,19 @@
 	</ItemGroup>
 
 	<ItemGroup>
-	  <Folder Include="Helpers\" />
-	  <Folder Include="IServices\" />
-	  <Folder Include="Models\" />
 	  <Folder Include="IViews\" />
-	  <Folder Include="ViewControls\" />
 	  <Folder Include="ViewModels\Base\" />
-	  <Folder Include="Services\" />
 	  <Folder Include="Views\Base\" />
 	</ItemGroup>
 
 	<ItemGroup>
+	  <ProjectReference Include="..\Maui.Apps.Framework\Maui.Apps.Framework.csproj" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <MauiXaml Update="ViewControls\Common\ErrorIndicator.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
 	  <MauiXaml Update="Views\StartPage.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
